@@ -1,0 +1,6 @@
+# Ignore build directories
+build/
+dist/
+Reportes Excel/
+
+*.spec
